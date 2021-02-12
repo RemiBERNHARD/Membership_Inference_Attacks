@@ -52,4 +52,4 @@ The files "attack_base.py", "attacks_threshold_choice.py" and "utils_mia.py" con
 
 
 
-<a name="reinj">1</a>: Miguel Solinas,  Stephane Rousset  , Romain Cohendet, Yannick Bourrier, Marion Mainsant, Anca Molnos, Marina Reyboz, and Martial Mermillod. BENEFICIAL EFFECT OF COMBINED REPLAY FOR CONTINUAL LEARNING. In *International Conference on Agents and Artificial Intelligence, 2021*
+<a name="reinj">1</a>: Miguel Solinas,  Stephane Rousset  , Romain Cohendet, Yannick Bourrier, Marion Mainsant, Anca Molnos, Marina Reyboz, and Martial Mermillod. Beneficial Effect of Combined Replay for Continual Learning. In *International Conference on Agents and Artificial Intelligence, 2021*
